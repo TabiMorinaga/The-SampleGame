@@ -10,11 +10,13 @@ Created by Tabi Morinaga
 
 Unityライブラリ
 * Unity公式
-    * Addressable
-    * Test Runner
+    * Text Mesh Pro
+    * Shader Graph
+    * New Input System
     * Timeline
     * Cinemachine
-    * Text Mesh Pro
+    * Addressable
+    * Test Runner
     * ECS
 
 * CySharp
@@ -37,3 +39,4 @@ Unityライブラリ
     * LFS
 * その他
     * UML図
+    * CircleCI
